@@ -5,10 +5,7 @@ After instal Qtile:
 
 	sudo pacman -S gdm kitty ----
 	
-	mkdir repos
-	git clone https://aur.archlinux.org/paru-bin.git
-	cd paru-bin
-	makepkg -si
+	
 
 installing repos for BlackArch 
 
@@ -37,8 +34,12 @@ instalation PARU
 
 create repo directory
 
-	git clone https://
+	mkdir repos
+	git clone https://aur.archlinux.org/paru-bin.git
+	cd paru-bin
+	makepkg -si
 
+after finish installeting PARU
 
 	paru -S nerd-fonts-ubuntu-mono
 	
