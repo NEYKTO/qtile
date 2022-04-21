@@ -1,8 +1,33 @@
-# qtile
+# Custom personalizate Qtile
 custom Qtile for ArchLinux
-
-
 Install Qtile and dependencies:
+
+	sudo pacman -S qtile pacman-contrib
+
+In case of YAY:
+
+	yay -S nerd-fonts-ubuntu-mono
+	pip install psutil
+	
+or in case PARU:
+
+	paru -S nerd-fonts-ubuntu-mono
+	
+Clone this repository and copy my configs:
+
+	git clone https://github.com/antoniosarosi/dotfiles.git
+	cp -r dotfiles/.config/qtile ~/.config
+
+
+
+
+
+
+
+--------------------------------------------------
+
+
+......
 
 sudo pacman -S qtile pacman-contrib
 
