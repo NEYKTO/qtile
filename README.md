@@ -3,16 +3,26 @@ custom Qtile for ArchLinux
 Install Qtile and dependencies:
 
 	sudo pacman -S qtile pacman-contrib
+	sudo pacman -S noto-fonts-emoji noto-fonts 
 
 In case of YAY:
 
 	yay -S nerd-fonts-ubuntu-mono
-	pip install psutil
+	
 	
 or in case PARU:
 
 	paru -S nerd-fonts-ubuntu-mono
 	
+next:
+
+	pip install psutil
+	
+if missed this:
+
+	sudo pacman -S python-pip
+
+
 Clone this repository and copy my configs:
 
 	git clone https://github.com/antoniosarosi/dotfiles.git
