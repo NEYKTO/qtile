@@ -1,5 +1,27 @@
 # Custom personalizate Qtile
 custom Qtile for ArchLinux
+
+After instal Qtile:
+
+	sudo pacman -S gdm kitty ----
+	
+	mkdir repos
+	git clone https://aur.archlinux.org/paru-bin.git
+	cd paru-bin
+	makepkg -si
+
+installing repos for BlackArch 
+
+	mkdir blackarch
+	cd !$
+	curl -O https://blackarch.org/strap.sh
+	chmod +x strap.sh
+	sudo su
+	./strap.sh
+	
+	pacman -Sy
+
+
 Install Qtile and dependencies:
 
 	sudo pacman -S qtile pacman-contrib
@@ -11,6 +33,12 @@ In case of YAY:
 	
 	
 or in case PARU:
+instalation PARU
+
+create repo directory
+
+	git clone https://
+
 
 	paru -S nerd-fonts-ubuntu-mono
 	
