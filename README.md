@@ -2,7 +2,7 @@
 custom Qtile for ArchLinux
 
 
-![Alt text](Captura.png?raw=true "Title")
+<img src="Captura.png" width="512"/>
 
 
 After instal Qtile:
