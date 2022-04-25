@@ -2,7 +2,7 @@
 custom Qtile for ArchLinux
 
 
-![Alt text](relative/path/to/img.jpg?raw=true "Title")
+![Alt text](Captura.png?raw=true "Title")
 
 
 After instal Qtile:
