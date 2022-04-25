@@ -43,7 +43,7 @@ create repo directory
 	cd paru-bin
 	makepkg -si
 
-after finish installeting PARU
+after finish installation PARU
 
 	paru -S nerd-fonts-ubuntu-mono
 	
@@ -51,7 +51,7 @@ next:
 
 	pip install psutil
 	
-if missed this:
+if missed this command pip:
 
 	sudo pacman -S python-pip
 
