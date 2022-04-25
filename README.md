@@ -72,17 +72,7 @@ Clone this repository and copy my configs:
 
 ......
 
-sudo pacman -S qtile pacman-contrib
 
-yay or paru -S nerd-fonts-ubuntu-mono
-
-
-
-		if yay then: pip install psutil
-
-
-<clipboard-copy> element
-	
 
 # Copy to clipboard [![Build Status](https://travis-ci.org/sudodoki/copy-to-clipboard.svg?branch=master)](https://travis-ci.org/sudodoki/copy-to-clipboard)
 
