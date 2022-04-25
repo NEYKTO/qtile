@@ -1,6 +1,10 @@
 # Custom personalizate Qtile
 custom Qtile for ArchLinux
 
+
+![Alt text](relative/path/to/img.jpg?raw=true "Title")
+
+
 After instal Qtile:
 
 	sudo pacman -S gdm kitty ----
